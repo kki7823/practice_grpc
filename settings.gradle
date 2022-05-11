@@ -1,0 +1,3 @@
+rootProject.name = 'practice_grpc'
+include 'service_first'
+
